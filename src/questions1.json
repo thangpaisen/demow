@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "question": "Tại sao con cò hay mệt và đau họng?",
+      "answers": ["Vì ăn ít", "Vì bay lả bay la", "Vì chân bé"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Quyền nào không phải của em?",
+      "answers": ["Quyền anh", "Quyền lực", "Quyền hạn"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vứt bộ ly cặp với người yêu khi chia tay sẽ xảy ra chuyện gì?",
+      "answers": ["Cách biệt", "Ly tan", "Chia tay"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Loài chim nào được yêu thích nhất?",
+      "answers": ["Chim đại bàng.", "Chim cú", "Chim ưng"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vì sao Captain America không bao giờ gục ngã?",
+      "answers": ["Vì anh có sức mạnh", "Vì anh cứng cáp", "Vì anh có ý chí"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Tên trộm vào nhà thấy em bé đáng yêu thì khen gì?",
+      "answers": ["Trộm vía", "Khen thưởng", "Xinh xỉu"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vì sao một người nọ có lông mày ở dưới mắt?",
+      "answers": [
+        "Vì người đó đang trồng cây chuối",
+        "Vì người đó có dị tật",
+        "Vì người đó đi xăm thêm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Khi mất mạng ta thường thấy con gì?",
+      "answers": ["Không thấy gì nữa", "Thấy buồn", "Con khủng long"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Yêu đến lần thứ tư gọi là gì?",
+      "answers": ["Tình tứ", "Tình cảm", "Tình đơn phương"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thứ gì biến mất nếu bạn nói tên của nó?",
+      "answers": ["Nỗi buồn", " Im lặng", "Lắng nghe"],
+      "correctIndex": 1
+    }
+  ]
+}

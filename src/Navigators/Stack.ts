@@ -1,0 +1,6 @@
+export { default as LoginView } from '@/Containers/LoginView'
+export { default as SplashView } from '@/Containers/SplashView'
+export { default as DetailScreen } from '@/Containers/DetailScreen'
+export { default as HomeScreen } from '@/Containers/HomeScreen'
+export { default as Trang1 } from '@/Containers/Trang1'
+export { default as Trang2 } from '@/Containers/Trang2'
